@@ -1,6 +1,11 @@
 # GitSSHTuttorial
 Tutorial for adding SSH keys to github/bitbucket.
 
+## Prerequisites
+[Git for Windows](https://git-scm.com/downloads)  
+[PuTTY](https://www.putty.org/)  
+[PuTTYgen](http://www.puttygen.com/)
+
 ## Generate an SSH key  
 
 Using Git Bash Type the following command:
