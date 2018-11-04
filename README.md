@@ -22,12 +22,12 @@ $ ssh-add .ssh/id_rsa
 ```
 To be able to use this key with TortoiseGit you will need to add it to Putty.  
 You will need to create a Putty version of the private key. First open PuttyGen and click **conversions** and **import key** from the drop down menu. Browse to the _id_rsa_ key and click open. After this you will click **Save private key**, give a name and the file extension **`.ppk`**:  
-![puttygen](img/puttygen.png)  
+![puttygen](img/puttygen.PNG)  
 Next add the converted key to putty under Connections > SSH > Auth:  
-![Putty 01](img/putty01.png)  
+![Putty 01](img/putty01.PNG)  
 
 Then save the key under Session and default settings:  
-![Putty 02](img/putty02.png)  
+![Putty 02](img/putty02.PNG)  
 
 Before moving on to the Git Hub or Bitbucket page we need to copy the ssh key to the clip board, which can be be accomplished by opening the ssh key in a text editor or typing the following command:
 ```
