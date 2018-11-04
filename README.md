@@ -51,9 +51,9 @@ Bitbucket:
 ![Bitbucket04](img/bitbucket04.png)
 
 ### Name your key and the paste the key which was copied to your clipboard earlier:  
-GitHub :  
+GitHub:  
 ![GitHub 05](img/github05.png)  
-Bitbucket :  
+Bitbucket:  
 ![Bitbucket05](img/bitbucket05.png)
 
 ## Test your key
