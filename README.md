@@ -27,19 +27,34 @@ $ clip < .ssh/id_rsa.pub
 ## Add the SSH key to GitHub/Bitbucket 
 
 ### Go to your GitHub or Bitbucket page and click on your profile:     
-![GitHub 01](img/github01.png) ![Bitbucket01](img/bitbucket01.png)
+GitHub:  
+![GitHub 01](img/github01.png)  
+Bitbucket:  
+![Bitbucket01](img/bitbucket01.png)
 
 ### Click on the settings option:  
-![GitHub 02](img/github02.png) ![Bitbucket02](img/bitbucket02.png)
+GitHub:  
+![GitHub 02](img/github02.png)  
+Bitbucket:  
+![Bitbucket02](img/bitbucket02.png)
 
 ### Click the ssh key page:  
-![GitHub 03](img/github03.png) ![Bitbucket03](img/bitbucket03.png)
+GitHub:  
+![GitHub 03](img/github03.png)  
+Bitbucket:  
+![Bitbucket03](img/bitbucket03.png)
 
 ### Click on the add ssh key option:  
-![GitHub 04](img/github04.png) ![Bitbucket04](img/bitbucket04.png)
+GitHub:  
+![GitHub 04](img/github04.png)  
+Bitbucket:  
+![Bitbucket04](img/bitbucket04.png)
 
 ### Name your key and the paste the key which was copied to your clipboard earlier:  
-![GitHub 05](img/github05.png) ![Bitbucket05](img/bitbucket05.png)
+GitHub:  
+![GitHub 05](img/github05.png)  
+Bitbucket:  
+![Bitbucket05](img/bitbucket05.png)
 
 ## Test your key
 
