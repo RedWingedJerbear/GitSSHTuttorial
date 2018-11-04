@@ -19,6 +19,8 @@ $ eval $(ssh-agent -s)
 
 $ ssh-add .ssh/id_rsa
 ```
+To be able to use this key with TortoiseGit you will need to add it to Putty.  
+First coverts the private key to a 
 
 Before moving on to the Git Hub or Bitbucket page we need to copy the ssh key to the clip board, which can be be accomplished by opening the ssh key in a text editor or typing the following command:
 ```
