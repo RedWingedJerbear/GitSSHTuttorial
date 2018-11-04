@@ -16,11 +16,16 @@ You will then be prompted to enter a pass phrase for the private key you have ju
 You will then need to add the SSH key to the ssh-agent. To do this type the following commands in git bash:  
 ```
 $ eval $(ssh-agent -s)
-
+```
+```
 $ ssh-add .ssh/id_rsa
 ```
 To be able to use this key with TortoiseGit you will need to add it to Putty.  
-First coverts the private key to a 
+First add the generated key to putty under SSH > Auth:  
+![Putty 01](img/putty01.png)  
+
+Then save the key under Session and default settings:  
+![Putty 02](img/putty02.png)  
 
 Before moving on to the Git Hub or Bitbucket page we need to copy the ssh key to the clip board, which can be be accomplished by opening the ssh key in a text editor or typing the following command:
 ```
