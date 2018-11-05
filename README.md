@@ -27,7 +27,7 @@ $ eval $(ssh-agent -s)
 ```
 $ ssh-add .ssh/id_rsa
 ```
-To be able to use this key with TortoiseGit you will need to add it to Putty.  
+To be able to use this key with TortoiseGit you will need to add it to Putty test.  
 You will need to create a Putty version of the private key. First open PuttyGen and click **conversions** and **import key** from the drop down menu. Browse to the _id_rsa_ key and click open. After this you will click **Save private key**, give a name and the file extension **`.ppk`**:  
 ![puttygen](img/puttygen.PNG)  
 Next add the converted key to putty under Connections > SSH > Auth:  
