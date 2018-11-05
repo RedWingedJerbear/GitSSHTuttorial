@@ -43,7 +43,7 @@ $ clip < .ssh/id_rsa.pub
 ## Add the SSH key to GitHub/Bitbucket 
 
 ### Go to your GitHub or Bitbucket page and click on your profile:     
-GitHub   :  
+GitHub            :  
 ![GitHub 01](img/github01.png)  
 Bitbucket:  
 ![Bitbucket01](img/bitbucket01.png)
