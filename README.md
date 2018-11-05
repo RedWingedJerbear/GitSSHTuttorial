@@ -45,7 +45,7 @@ $ clip < .ssh/id_rsa.pub
 ### Go to your GitHub or Bitbucket page and click on your profile:     
 GitHub:  
 ![GitHub 01](img/github01.png)  
-Bitbucket:  
+Bitbucket  :  
 ![Bitbucket01](img/bitbucket01.png)
 
 ### Click on the settings option:  
