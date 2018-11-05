@@ -48,7 +48,7 @@ GitHub            :
 Bitbucket:  
 ![Bitbucket01](img/bitbucket01.png)
 
-### Click on the settings option           :  
+### Click on the settings option:  
 GitHub:  
 ![GitHub 02](img/github02.png)  
 Bitbucket:  
