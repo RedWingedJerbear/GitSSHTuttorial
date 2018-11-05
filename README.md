@@ -36,7 +36,7 @@ Next add the converted key to putty under Connections > SSH > Auth:
 Then save the key under Session and default settings:  
 ![Putty 02](img/putty02.PNG)  
 
-Before moving on to the Git Hub or Bitbucket page we need to copy the ssh key to the clip board, which can be be accomplished by opening the ssh key in a text editor or typing the following command :
+Before moving on to the Git Hub or Bitbucket page we need to copy the ssh key to the clip board, which can be be accomplished by opening the ssh key in a text editor or typing the following command:
 ```
 $ clip < .ssh/id_rsa.pub
 ```
