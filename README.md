@@ -10,7 +10,7 @@ Bitbucket Account
 
 ## Generate an SSH key  
 
-Using Git Bash Type the following command:
+Using Git Bash Type the following command  :
 
 ```
 $ ssh-keygen -t rsa -b 4096 -C "white@nwmissouri.edu"
