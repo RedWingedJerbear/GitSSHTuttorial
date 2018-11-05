@@ -49,15 +49,15 @@ Bitbucket:
 ![Bitbucket01](img/bitbucket01.png)
 
 ### Click on the settings option:  
-GitHub:  
+GitHub :  
 ![GitHub 02](img/github02.png)  
-Bitbucket:  
+Bitbucket :  
 ![Bitbucket02](img/bitbucket02.png)
 
 ### Click the ssh key page:  
-GitHub:  
+GitHub :  
 ![GitHub 03](img/github03.png)  
-Bitbucket:  
+Bitbucket :  
 ![Bitbucket03](img/bitbucket03.png)
 
 ### Click on the add ssh key option:  
